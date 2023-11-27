@@ -7,4 +7,5 @@ echo "My first PHP script!";
 ?>
 
 </body>
-</html>
+</html> 
+hi hello how
